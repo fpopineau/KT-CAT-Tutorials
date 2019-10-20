@@ -1,9 +1,11 @@
 #+TITLE: Knowledge Tracing and Computerized Adaptive Testing Tutorials
-#+Description: Fabrice Popineau personal web pages at CentraleSupelec
+#+Author: Fabrice Popineau 
+#+Email: <fabrice.popineau@centralesupelec.fr>
+#+Description: This repository will hold presentations and Google colab notebooks to run experiments on KT and CAT.
 #+Setupfile: ~/Org/templates/level-0.org
 
 #+Startup: content indent hidestars logdone e logredeadline logreschedule noinlineimages
-#+Options: toc:nil num:nil todo:nil tasks:t pri:nil tags:nil skip:t d:nil
+#+Options: toc:nil num:nil todo:nil tasks:t pri:nil tags:nil skip:t d:nil <:nil
 
 #+bind: org-latex-title-command ""
 #+bind: org-html-doctype "html5"
