@@ -1,0 +1,29 @@
+
+* Knowledge Tracing and Computerized Adaptive Testing Tutorials
+[2019-10-20 Sun 22:26]
+
+This repository will hold presentations and Google colab notebooks to run
+experiments on KT and CAT.
+
+** Colaboratory Notebooks
+[2019-10-20 Sun 22:36]
+
+*** Running Google Colab
+[2019-10-20 Sun 22:26]
+
+Open a browser page on https://colab.research.google.com/notebooks/welcome.ipynb
+and follow the wuick tutorial to get familiar with the environment (very similar to IPython Notebooks)
+
+Some more tips to work with Google Colab:
+https://dev.to/kriyeng/8-tips-for-google-colab-notebooks-to-take-advantage-of-their-free-of-charge-12gb-ram-gpu-be4
+
+*** Datasets
+[2019-10-20 Sun 22:35]
+
+Datasets shoud be put in your Google Drive under the path =/Colab Notebooks/data/<datset_name>=
+
+
+** Slides
+[2019-10-20 Sun 22:36]
+
+- [[slides/2019 - Nancy - Knowledge Tracing and Adaptive Testing.pdf][KT and CAT - Nancy 2019]] at [[https://lsac2019.loria.fr/autumn_school.html][Autumn school Artificial Intelligence and Education]] (17-25 October, Nancy, France)
