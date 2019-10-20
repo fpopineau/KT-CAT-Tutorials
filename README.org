@@ -1,3 +1,14 @@
+#+TITLE: Knowledge Tracing and Computerized Adaptive Testing Tutorials
+#+Description: Fabrice Popineau personal web pages at CentraleSupelec
+#+Setupfile: ~/Org/templates/level-0.org
+
+#+Startup: content indent hidestars logdone e logredeadline logreschedule noinlineimages
+#+Options: toc:nil num:nil todo:nil tasks:t pri:nil tags:nil skip:t d:nil
+
+#+bind: org-latex-title-command ""
+#+bind: org-html-doctype "html5"
+#+bind: org-html-html5-fancy t
+#+bind: org-html-link-use-abs-url t
 
 * Knowledge Tracing and Computerized Adaptive Testing Tutorials
 [2019-10-20 Sun 22:26]
